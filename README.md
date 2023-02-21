@@ -1,6 +1,6 @@
 ## Django-Blog-App
 
--- installation de virtual
+-- installation de virtualenv
 * py -m pip install --user virtualenv
 
 -- creation d'un environnement virtuel
