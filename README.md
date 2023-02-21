@@ -1,16 +1,16 @@
 ## Django-Blog-App
 
-- installation de virtual
+-- installation de virtual
 * py -m pip install --user virtualenv
 
-- creation d'un environnement virtuel
+-- creation d'un environnement virtuel
 * py -m venv env
 
-- Activation
+-- Activation
 * .\env\Scripts\activate
 
-- Run
+-- Run
 * python3 manage.py runserver
 
-- Acceuil
+-- Acceuil
 <img src="home.jpg" alt="page_home" title="Acceuil">
